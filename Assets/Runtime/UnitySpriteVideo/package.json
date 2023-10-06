@@ -1,0 +1,10 @@
+{
+  "name": "com.nulock.unityspritevideo",
+  "displayName": "UnitySpriteVideo",
+  "version": "1.0.0",
+  "unity": "2022.3",
+  "description": "description.",
+  "author": {
+    "name": "nulock"
+  }
+}
